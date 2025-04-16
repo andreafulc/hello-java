@@ -2,7 +2,7 @@ package org.lessons.java.security;
 
 import java.util.Scanner;
 
-import javax.print.DocFlavor.STRING;
+
 
 // Aggiungete una classe PasswordGenerator che contenga un metodo main
 // Il programma deve fare quanto segue (chiedendo all'utente):
